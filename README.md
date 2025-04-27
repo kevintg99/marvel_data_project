@@ -34,4 +34,4 @@ Este projeto coleta, processa e analisa dados sobre os personagens do universo M
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/marvel_data_project.git
+   git clone https://github.com/kevintg99/marvel_data_project.git
